@@ -6,5 +6,5 @@ Download the PDF: [MathProofOfSoul.pdf](https://mathproofofsoul.github.io/Site/M
 
 Visit the blog: [Mathematical Proof of the Soul](https://mathproofofsoul.wixsite.com/math-proof-of-soul/blog)
 
-Contact the Author: [math.proof.of.soul@gmail.com](math.proof.of.soul@gmail.com)
+Contact the Author: [math.proof.of.soul@gmail.com](mailto:math.proof.of.soul@gmail.com)
 
