@@ -5,5 +5,5 @@ This site will attempt to prove the existance of a soul using mathematical princ
 Download the PDF: [MathProofOfSoul.pdf](https://mathproofofsoul.github.io/Site/MathematicalProofOfASoul10.pdf)
 
 
-[Contact Information](mailto:math.proof.of.soul@gmail.com?)
+[Email the Author](mailto:math.proof.of.soul@gmail.com?) (math.proof.of.soul@gmail.com)
 
