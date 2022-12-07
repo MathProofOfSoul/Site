@@ -1,4 +1,4 @@
-# Mathematical Proof of a Soul
+# Math Proof of Soul
 This site will attempt to prove the existance of a soul using mathematical principles
 
 
