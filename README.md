@@ -18,3 +18,5 @@ Other interesting reads:
 [Physics and the Immortality of the Soul](https://blogs.scientificamerican.com/guest-blog/physics-and-the-immortality-of-the-soul/)
 
 [Quantum Measurement, Consciousness, and the Soul: a New, Alternative Position](https://link.springer.com/article/10.1007/s41470-019-00038-z)
+
+[Mathematical proof of the Law of Karma](file:///C:/Users/sanchb/Downloads/10.11648.j.ajam.20140204.12.pdf)
