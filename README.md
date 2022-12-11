@@ -8,3 +8,8 @@ Visit the blog: [Math Proof of Soul Blog](https://mathproofofsoul.wixsite.com/ma
 
 Contact the Author: [math.proof.of.soul@gmail.com](mailto:math.proof.of.soul@gmail.com)
 
+
+Other intersting reads:
+
+[mathematical threory of the afterlife(https://www.horndeskicontemporary.com/blog/139230/a-mathematical-theory-of-the-afterlife)
+
