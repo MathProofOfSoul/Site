@@ -19,4 +19,4 @@ Other interesting reads:
 
 [Quantum Measurement, Consciousness, and the Soul: a New, Alternative Position](https://link.springer.com/article/10.1007/s41470-019-00038-z)
 
-[Mathematical proof of the Law of Karma](file:///C:/Users/sanchb/Downloads/10.11648.j.ajam.20140204.12.pdf)
+[Mathematical proof of the Law of Karma](https://www.sciencepublishinggroup.com/journal/paperinfo.aspx?journalid=148&doi=10.11648/j.ajam.20140204.12)
