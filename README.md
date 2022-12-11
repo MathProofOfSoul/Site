@@ -15,3 +15,6 @@ Other intersting reads:
 
 [Proof of the Soul Conjecture of Cheeger and Gromoll](https://projecteuclid.org/journals/journal-of-differential-geometry/volume-40/issue-1/Proof-of-the-soul-conjecture-of-Cheeger-and-Gromoll/10.4310/jdg/1214455292.full)
 
+[Physics and the Immortality of the Soul](https://blogs.scientificamerican.com/guest-blog/physics-and-the-immortality-of-the-soul/)
+
+
